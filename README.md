@@ -1,2 +1,2 @@
 # STAT 201 Project - Group 11
-Template project repository for STAT 201
+Investigating the differences between suicide rates of males and females in Canada. 
